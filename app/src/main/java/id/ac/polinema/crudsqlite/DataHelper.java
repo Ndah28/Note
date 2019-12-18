@@ -6,7 +6,7 @@ import android.util.Log;
 
 public class DataHelper extends SQLiteOpenHelper {
     private static final String DATABASE_NAME = "note.db";
-    private static final int DATABASE_VERSION = 1;
+    private static final int DATABASE_VERSION = 2;
     public DataHelper(Context context){
         super(context, DATABASE_NAME,null,DATABASE_VERSION);
     }
