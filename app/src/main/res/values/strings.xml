@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">MyNotes</string>
     <string name="app_title">List Note</string>
-    <string name="action_settings">About</string>
 </resources>

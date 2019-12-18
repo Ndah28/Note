@@ -40,8 +40,7 @@ public class BuatNoteActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), "Berhasil", Toast.LENGTH_LONG).show();
                 Intent in = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(in);
-//                MainActivity.ma.RefreshList();
-//                finish();
+
             }
         });
         ton2.setOnClickListener(new View.OnClickListener() {

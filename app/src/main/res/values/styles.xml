@@ -14,7 +14,7 @@
         <item name="colorControlHighlight">@color/colorWhite</item>
     </style>
 
-    <style name="SecondaryColoredButton" parent="Theme.AppCompat.Light">
+    <style name="SecondaryColoredButton" parent="ThemeOverlay.AppCompat.Dark">
         <item name="colorButtonNormal">@color/colorPrimaryDark</item>
         <item name="colorControlHighlight">@color/colorWhite</item>
     </style>
